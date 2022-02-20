@@ -6,7 +6,7 @@ sites:
     url: https://oneminch.dev
   - name: EncryptedList
     url: https://encryptedlist.xyz
-  - name: Oneminch Blob
+  - name: Oneminch Blog 
     url: https://blog.oneminch.dev
 
 status-website:
