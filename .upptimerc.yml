@@ -6,6 +6,8 @@ sites:
     url: https://oneminch.dev
   - name: EncryptedList
     url: https://encryptedlist.xyz
+  - name: Oneminch Blob
+    url: https://blog.oneminch.dev
 
 status-website:
   baseUrl: /uptime-monitor
