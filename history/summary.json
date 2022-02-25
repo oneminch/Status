@@ -22,7 +22,7 @@
     "url": "https://encryptedlist.xyz",
     "icon": "https://favicons.githubusercontent.com/encryptedlist.xyz",
     "slug": "encrypted-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 276,
     "timeMonth": 276,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "Oneminch Blog",
