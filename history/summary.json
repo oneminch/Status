@@ -4,19 +4,20 @@
     "url": "https://oneminch.dev",
     "icon": "https://icons.duckduckgo.com/ip3/oneminch.dev.ico",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 2811,
-    "timeWeek": 2603,
-    "timeMonth": 2370,
-    "timeYear": 908,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.71%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "99.73%",
+    "time": 709,
+    "timeDay": 1479,
+    "timeWeek": 2312,
+    "timeMonth": 2320,
+    "timeYear": 912,
     "dailyMinutesDown": {
-      "2023-10-14": 0
+      "2023-10-15": 1382,
+      "2023-10-14": 58
     }
   },
   {
@@ -31,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 56,
-    "timeWeek": 133,
-    "timeMonth": 113,
-    "timeYear": 174,
+    "timeDay": 75,
+    "timeWeek": 126,
+    "timeMonth": 112,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 791,
-    "timeWeek": 609,
-    "timeMonth": 435,
+    "time": 814,
+    "timeDay": 230,
+    "timeWeek": 616,
+    "timeMonth": 437,
     "timeYear": 902,
     "dailyMinutesDown": {}
   }
