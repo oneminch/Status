@@ -1,5 +1,5 @@
 owner: oneminch
-repo: status
+repo: Status
 
 sites:
   - name: Portfolio
@@ -10,7 +10,7 @@ sites:
     url: https://blog.oneminch.dev
 
 status-website:
-  baseUrl: /status
+  baseUrl: /Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
