@@ -3,11 +3,11 @@ repo: Status
 
 sites:
   - name: Portfolio
-    url: https://oneminch.dev
+    url: https://minch.dev
   - name: EncryptedList
     url: https://encryptedlist.xyz
   - name: PlayTales 
-    url: https://playtales.oneminch.dev
+    url: https://playtales.minch.dev
 
 status-website:
   baseUrl: /Status
