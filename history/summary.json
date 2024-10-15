@@ -9,16 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 944,
+    "uptimeYear": "99.84%",
+    "time": 943,
     "timeDay": 0,
-    "timeWeek": 145,
-    "timeMonth": 171,
-    "timeYear": 788,
-    "dailyMinutesDown": {
-      "2023-10-15": 1382,
-      "2023-10-14": 58
-    }
+    "timeWeek": 173,
+    "timeMonth": 168,
+    "timeYear": 715,
+    "dailyMinutesDown": {}
   },
   {
     "name": "EncryptedList",
@@ -33,9 +30,9 @@
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 0,
-    "timeWeek": 120,
-    "timeMonth": 111,
-    "timeYear": 213,
+    "timeWeek": 93,
+    "timeMonth": 107,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -44,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/playtales.minch.dev.ico",
     "slug": "play-tales",
     "status": "up",
-    "uptime": "85.97%",
+    "uptime": "86.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.97%",
-    "time": 1621,
+    "uptimeYear": "86.42%",
+    "time": 1581,
     "timeDay": 0,
-    "timeWeek": 176,
-    "timeMonth": 199,
-    "timeYear": 1621,
+    "timeWeek": 367,
+    "timeMonth": 249,
+    "timeYear": 1581,
     "dailyMinutesDown": {
       "2024-08-27": 544,
       "2024-08-26": 1440,
