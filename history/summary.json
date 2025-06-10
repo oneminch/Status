@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
+    "time": 399,
     "timeDay": 0,
-    "timeWeek": 121,
-    "timeMonth": 184,
-    "timeYear": 166,
+    "timeWeek": 272,
+    "timeMonth": 216,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
+    "time": 248,
     "timeDay": 0,
-    "timeWeek": 1045,
-    "timeMonth": 1489,
-    "timeYear": 286,
+    "timeWeek": 634,
+    "timeMonth": 1403,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/playtales.minch.dev.ico",
     "slug": "play-tales",
     "status": "up",
-    "uptime": "93.40%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.99%",
-    "time": 842,
+    "uptimeYear": "97.64%",
+    "time": 832,
     "timeDay": 0,
-    "timeWeek": 106,
-    "timeMonth": 131,
-    "timeYear": 269,
+    "timeWeek": 222,
+    "timeMonth": 140,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2024-08-27": 544,
       "2024-08-26": 1440,
@@ -61,14 +61,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 898,
       "2024-07-16": 893,
-      "2024-06-11": 542,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 898
+      "2024-06-11": 542
     }
   }
 ]
