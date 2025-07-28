@@ -6,8 +6,6 @@ sites:
     url: https://minch.dev
   - name: EncryptedList
     url: https://encryptedlist.xyz
-  - name: PlayTales 
-    url: https://playtales.minch.dev
 
 status-website:
   baseUrl: /Status
